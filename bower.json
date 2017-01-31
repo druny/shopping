@@ -1,0 +1,23 @@
+{
+  "name": "shopping",
+  "description": "Test task",
+  "main": "index.js",
+  "authors": [
+    "Danilenko"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/druny/shopping",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-mocks": "1.5.x",
+    "bootstrap": "3.3.x"
+  }
+}
